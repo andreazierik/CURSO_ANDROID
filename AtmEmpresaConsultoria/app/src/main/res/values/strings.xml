@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+    <string name="title_activity_empresa">EmpresaActivity</string>
+    <string name="detalhes_empresa">Sobre a empresa</string>
+    <string name="detalhes_servicos">Serviços</string>
+    <string name="texto_consultoria">Consultoria</string>
+    <string name="texto_processos">Processos</string>
+    <string name="texto_acompanhamento">Acompanhamento e projetos</string>
+    <string name="texto_clientes">Nossos Clientes</string>
+    <string name="texto_contato">Contato</string>
+    <string name="detalhe_contato">E-mail: consultoria@atm.com.br</string>
+    <string name="detalhe_telefone">Telefone: (41) 3333-2222</string>
+    <string name="detalhe_celular">Celular: (11) 9999-8888</string>
+</resources>
