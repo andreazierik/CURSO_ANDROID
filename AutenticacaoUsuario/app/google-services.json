@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "86744334020",
+    "firebase_url": "https://andreaziautenticacaousuario.firebaseio.com",
+    "project_id": "andreaziautenticacaousuario",
+    "storage_bucket": "andreaziautenticacaousuario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86744334020:android:a0b39bf195600263",
+        "android_client_info": {
+          "package_name": "autenticacaousuario.com.cursoandroid.autenticacaousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86744334020-lgn40i4a9nnqf45lkuk3f2i3cc68thcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "autenticacaousuario.com.cursoandroid.autenticacaousuario",
+            "certificate_hash": "b23c009b72274b7e557131b631ff33f7050cd91e"
+          }
+        },
+        {
+          "client_id": "86744334020-7ob8u4am3robnvr7gjces8m7fpl6b114.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "86744334020-7ob8u4am3robnvr7gjces8m7fpl6b114.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6z8ibkxcBo91q9Ps5GWYxBlaaRpR80Q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86744334020-7ob8u4am3robnvr7gjces8m7fpl6b114.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
