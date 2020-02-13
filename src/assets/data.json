@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Curso": "Who is this player ?",
+        "dtaInicio": "2019-09-06",
+        "dtaTermino": "2019-09-06"
+    },
+    {
+        "id": 2,
+        "Curso": "Who is this player ?",
+        "dtaInicio": "2019-09-06",
+        "dtaTermino": "2019-09-06"
+    },
+	{
+        "id": 3,
+        "Curso": "Who is this player ?",
+        "dtaInicio": "2019-09-06",
+        "dtaTermino": "2019-09-06"
+    },
+	{
+        "id": 4,
+        "Curso": "Who is this player ?",
+        "dtaInicio": "2019-09-06",
+        "dtaTermino": "2019-09-06"
+    }
+]

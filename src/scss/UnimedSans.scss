@@ -1,0 +1,42 @@
+@font-face {
+font-family: Unimed Sans;
+src:
+ local("Unimed Sans Bold"), url("../assets/fonts/UnimedSans-Bold.ttf") format("truetype");
+ font-weight: bold;
+ font-style: normal;
+ }
+@font-face {
+ font-family: Unimed Sans;
+ src:
+  local("Unimed Sans Bold Italic"), url("../assets/fonts/UnimedSans-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  }
+@font-face {
+  font-family: Unimed Sans;
+  src:
+   local("Unimed Sans Light"), url("../assets/fonts/UnimedSans-Light.ttf") format("truetype");
+   font-weight: lighter;
+   font-style: normal;
+   }
+@font-face {
+   font-family: Unimed Sans;
+   src:
+    local("Unimed Sans Light Italic"), url("../assets/fonts/UnimedSans-LightItalic.ttf") format("truetype");
+    font-weight: lighter;
+    font-style: italic;
+    }
+@font-face {
+    font-family: Unimed Sans;
+    src:
+     local("Unimed Sans Regular"), url("../assets/fonts/UnimedSans-Regular.ttf") format("truetype");
+     font-weight: normal;
+     font-style: normal;
+     }
+@font-face {
+     font-family: Unimed Sans;
+     src:
+      local("Unimed Sans Regular Italic"), url("../assets/fonts/UnimedSans-RegularItalic.ttf") format("truetype");
+      font-weight: normal;
+      font-style: italic;
+      }

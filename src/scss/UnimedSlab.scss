@@ -1,0 +1,49 @@
+@font-face {
+font-family: Unimed Slab;
+src:
+ local("Unimed Slab Bold"), url("../assets/fonts/UnimedSlab-Bold.ttf") format("truetype");
+ font-weight: bold;;
+ font-style: normal;
+ }
+@font-face {
+ font-family: Unimed Slab;
+ src:
+  local("Unimed Slab Bold Italic"), url("../assets/fonts/UnimedSlab-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+  }
+@font-face {
+  font-family: Unimed Slab;
+  src:
+   local("Unimed Slab Light"), url("../assets/fonts/UnimedSlab-Light.ttf") format("truetype");
+   font-weight: lighter;
+   font-style: normal;
+   }
+@font-face {
+   font-family: Unimed Slab;
+   src:
+    local("Unimed Slab Light Italic"), url("../assets/fonts/UnimedSlab-LightItalic.ttf") format("truetype");
+    font-weight: lighter;
+    font-style: italic;
+    }
+@font-face {
+    font-family: Unimed Slab;
+    src:
+     local("Unimed Slab Regular"), url("../assets/fonts/UnimedSlab-Regular.ttf") format("truetype");
+     font-weight: normal;
+     font-style: normal;
+     }
+@font-face {
+     font-family: Unimed Slab;
+     src:
+      local("Unimed Slab Regular Italic"), url("../assets/fonts/UnimedSlab-RegularItalic.ttf") format("truetype");
+      font-weight: normal;
+      font-style: italic;
+      }
+@font-face {
+     font-family: Unimed Slab Semi Bold;
+     src:
+      local("Unimed Slab Semi Bold"), url("../assets/fonts/UnimedSlab-SemiBold.ttf") format("truetype");
+      font-weight: semibold;
+      font-style: semibold;
+      }
